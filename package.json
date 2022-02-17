@@ -1,0 +1,10 @@
+{
+	"name": "excercise",
+	"version": "0.0.0",
+	"devDependencies": {
+		"mocha": "^9.2.0"
+	},
+	"scripts": {
+		"test": "mocha"
+	}
+}
